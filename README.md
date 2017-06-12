@@ -1,0 +1,3 @@
+# Simple-E-Commerce
+Simplest minimal feature e-commerce website using JSP  
+Work on progress...
